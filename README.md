@@ -1,9 +1,9 @@
 # testrepo
-It is test
+It  test
 
 
 
-Edited a line in Repo ...
+Edied a line in Repo ...
 
 
-asdasd
+asdsd
